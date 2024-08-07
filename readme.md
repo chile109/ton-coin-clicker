@@ -1,9 +1,11 @@
-# Coin Clicker
+# Ton Coin Clicker
 
 This is a simple coin clicker game. The goal is to click the coin as many times as possible in the time limit.
 ![1](https://github.com/user-attachments/assets/242ce592-a275-49e2-878e-514ff4e97693)
 
 Play Link: https://t.me/MustaverseGame_bot/toncoinclicker
+
+GamePlay Video: https://youtube.com/shorts/aUn__2jXtOs?feature=share
 
 ## Instructions
 
